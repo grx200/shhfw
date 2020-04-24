@@ -1,0 +1,19 @@
+platformName: Android
+#模拟器
+platformVersion: 5.1.1
+deviceName: 127.0.0.1:62001
+
+#mx4真机
+#platformVersion: 5.1
+#udid: 750BBKL22GDN
+#deviceName: MX4
+
+appname: com.cpt.ags_lx_cesi_1.apk
+noReset: False
+unicodeKeyboard: True
+resetKeyboard: True
+
+appPackage: cd.cpt.agricultureservicecircle
+appActivity: cd.cpt.agricultureservicecircle.AgricultureServiceCircle
+ip: 127.0.0.1
+port: 4723
